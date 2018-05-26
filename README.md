@@ -24,8 +24,8 @@ Make sure you have:
 
 1. clone repo
 ```bash
-git clone 
-cd ./alekei-wp-boilerplate
+git clone https://github.com/Ehrax/wp-boilerplate.git
+cd ./wp-boilerplate
 ```
 
 2. start docker-compose
@@ -71,7 +71,7 @@ npm run dev
 └── docker-compose.yml
 ```
 
-## Running for for production
+## Running for production
 ```bash
 # npm
 npm run build
