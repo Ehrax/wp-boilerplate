@@ -1,7 +1,6 @@
 # Easy WP Theme developing with Webpack and Sass
-A simple wordpress boilerplate to get fast started for local `WP` Theme development.
-
-Using `webpack-4` and `docker-compose 3.3` to set up a local `WP` developiong enviroment.
+A simple wordpress boilerplate to get fast started for local WP Theme development.
+Using `webpack-4` and `docker-compose 3.3`.
 
 Make sure you have:
 - docker-compose 3.3
