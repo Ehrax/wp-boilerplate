@@ -7,14 +7,18 @@ Make sure you have:
 - docker-compose 3.3
 - npm & node 
 
-# Features
+## Features
 - docker compose
 - webpack - 4
 - sass
 - es8
 - browser sync
-- site origin page builder custom widget, boilerplate
-- custom post, type boilerplate
+- site origin page builder custom widget - boilerplate
+- custom post - type boilerplate
+
+## Recommened WP - Plugins
+- Page builder
+- advanced custom fields 
 
 # Getting started
 
@@ -44,18 +48,18 @@ npm run dev
 ├── README.md
 ├── alekei-theme
 │   ├── 404.php
-│   ├── dist
+│   ├── dist                   
 │   ├── footer.php
 │   ├── functions.php
 │   ├── header.php
-│   ├── img
+│   ├── img                     # image dir
 │   ├── index.php
 │   ├── package-lock.json
 │   ├── package.json
 │   ├── postcss.config.js
 │   ├── src
-│   │   ├── js
-│   │   └── scss
+│   │   ├── js                  # js folder 
+│   │   └── scss                # sass fodler
 │   ├── style.css
 │   ├── template-parts
 │   │   ├── footer.php
