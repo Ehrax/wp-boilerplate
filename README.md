@@ -12,8 +12,8 @@ Make sure you have:
 - sass
 - es8
 - browser sync
-- site origin page builder custom widget - boilerplate
-- custom post - type boilerplate
+- page builder, custom widget - boilerplate
+- custom post types -  boilerplate
 
 ## Recommened WP - Plugins
 - Page builder
