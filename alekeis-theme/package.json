@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A basic boilerplate for developing wordpress themes and widgets with docker-compose",
   "scripts": {
-    "dev": "webpack --mode development --watch",
+    "start": "webpack --mode development --watch",
     "build": "webpack --mode production"
   },
   "author": "Alexaner Rasputin",
